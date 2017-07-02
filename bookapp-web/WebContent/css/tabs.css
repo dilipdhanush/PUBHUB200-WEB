@@ -1,0 +1,42 @@
+.navbar-brand1 { 
+  width: 70px;
+  height: 50px;
+  background: url('http://www.sneaker-mission.com/uploads/3/1/2/7/31279819/5617441.png') no-repeat center center;
+  background-size: 50px;  
+}
+
+.nav-tabs1 {
+  display: inline-block;
+  border-bottom: none;
+  padding-top: 15px;
+}
+.nav-tabs1 > li > a, 
+.nav-tabs1 > li > a:hover, 
+.nav-tabs1 > li > a:focus, 
+.nav-tabs1 > li.active > a, 
+.nav-tabs1 > li.active > a:hover,
+.nav-tabs1 > li.active > a:focus {
+  border: none;
+  border-radius: 0;
+}
+
+.nav-list1 { border-bottom: 1px solid #eee; }
+.nav-list1 > li { 
+  padding: 20px 15px 15px;
+  border-left: 1px solid #eee; 
+}
+.nav-list1 > li:last-child { border-right: 1px solid #eee; }
+.nav-list1 > li > a:hover { text-decoration: none; }
+.nav-list1 > li > a > span {
+  display: block;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.mega-dropdown1 { position: static; }
+.mega-dropdown-menu1 {
+  padding: 20px 15px 15px;
+  text-align: center;
+  width: 100%;
+}
+
